@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Bouchelliga Hedi
 
-### I am a data scientist from Tunisia (Open to work in worldwide)
-#### I have two years of experience in the machine learning industry inlcuding computer vision , NLP and so on
+### I am a data scientist from Tunisia 
+#### I have two years of experience in the machine learning industry inlcuding computer vision , NLP and machine learning
 
 - I’m currently learning MLOPS and Cloud computing
 - I’m learning also data engineering 

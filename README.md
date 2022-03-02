@@ -3,7 +3,7 @@
 ### I am a data scientist from Tunisia 
 #### I have two years of experience in the machine learning industry inlcuding computer vision , NLP and machine learning
 
-- I’m currently learning MLOPS and Cloud computing
+- I’m currently learning Data engineering and Big data
 - I’m learning also data engineering 
 - I partipated in building many intersting AI projects like ALPR , Invoice Analysis 
 - Ask me about anything about AI i may be helpful 

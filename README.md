@@ -3,10 +3,8 @@
 ### I am a data Scientist/Engineer , i am a GCP practioneer as well 
 
 ## What you can learn from my Github :
-- Q/A chatbot here : 
-* https://github.com/DeepNeurons/Q-A-chatbot
-- REGEX:
-* https://github.com/DeepNeurons/Regular-Expressions-with-Python---Crash-Course
+- [Q/A chatbot][2]
+- [REGEX with python][3]
 <!-- Actual text -->
 
 You can find me on       [LinkedIn][1]
@@ -18,8 +16,8 @@ You can find me on       [LinkedIn][1]
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/bouchelligamedhedi/
-
-
+[2]: https://github.com/DeepNeurons/Q-A-chatbot
+[3]: https://github.com/DeepNeurons/Regular-Expressions-with-Python---Crash-Course
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

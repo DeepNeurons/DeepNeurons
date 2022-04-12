@@ -1,10 +1,13 @@
 ## Hi there 👋 I am Bouchelliga Hedi
 
-### I am a data Scientist/Engineer , i am a GCP practioneer as well 
+### I am a data Scientist/Engineer with 2+ years of experience
 
 ## What you can learn from my Github :
-- [Q/A chatbot][2]
+## ☞ Python Tricks
 - [REGEX with python][3]
+## ☞ Natural Language Processing
+- [Q/A chatbot][2]
+
 <!-- Actual text -->
 
 You can find me on       [LinkedIn][1]

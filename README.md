@@ -1,12 +1,12 @@
 ## Hi there 👋 I am Bouchelliga Hedi
 
-### I am a data scientist from Tunisia 
-#### I have two years of experience in the machine learning industry inlcuding computer vision , NLP and machine learning
+### I am a data Scientist/Engineer , i am a GCP practioneer as well 
 
-- I’m currently learning Data engineering and Big data
-- I’m learning also data engineering 
-- I partipated in building many intersting AI projects like ALPR , Invoice Analysis 
-- Ask me about anything about AI i may be helpful 
+## What you can learn from my Github :
+- Q/A chatbot here : 
+* https://github.com/DeepNeurons/Q-A-chatbot
+- REGEX:
+* https://github.com/DeepNeurons/Regular-Expressions-with-Python---Crash-Course
 <!-- Actual text -->
 
 You can find me on       [LinkedIn][1]

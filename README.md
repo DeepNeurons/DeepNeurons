@@ -7,6 +7,16 @@
 - [REGEX with python][3]
 ## ☞ Natural Language Processing
 - [Q/A chatbot][2]
+## ☞ Pytorch
+- [Style transfer][4]
+
+## ☞ Time Series Analysis
+[Shipping Profit Sales Forecasting][6]
+## ☞ Computer Vision
+- [Mediapipe Implementation][5]
+## ☞ Machine learning
+- [Bank Note Analysis][7]
+
 
 <!-- Actual text -->
 
@@ -21,6 +31,10 @@ You can find me on       [LinkedIn][1]
 [1]: https://www.linkedin.com/in/bouchelligamedhedi/
 [2]: https://github.com/DeepNeurons/Q-A-chatbot
 [3]: https://github.com/DeepNeurons/Regular-Expressions-with-Python---Crash-Course
+[4]: https://github.com/DeepNeurons/Style-transfer-Pytorch
+[5]: https://github.com/DeepNeurons/Mediapipe_Implementations
+[6]: https://github.com/DeepNeurons/Shipping-profits-sales-FORECASTING
+[7]: https://github.com/DeepNeurons/BANK-NOTE-ANALYSIS
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)

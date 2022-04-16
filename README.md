@@ -13,6 +13,7 @@
 - [Style transfer][4]
 - [Q/A chatbot][2]
 - [Shipping Profit Sales Forecasting][6]
+- [Printed-bill-analysis][10]
 - [Mediapipe Implementation][5]
 - [Bank Note Analysis][7]
 
@@ -36,6 +37,7 @@ You can find me on       [LinkedIn][1]
 [7]: https://github.com/DeepNeurons/BANK-NOTE-ANALYSIS
 [8]: https://github.com/DeepNeurons/NLTK
 [9]:https://github.com/DeepNeurons/POS-tagging
+[10]: https://github.com/DeepNeurons/Printed-bill-analysis
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)

@@ -5,18 +5,15 @@
 ## What you can learn from my Github :
 ## ☞ Python Tricks
 - [REGEX with python][3]
-## ☞ Natural Language Processing
+## ☞ Natural Language Processing Tricks
 - [Introduction to NLTK][8]
 - [Part-of-Speech Tagging][9]
-- [Q/A chatbot][2]
-## ☞ Pytorch
-- [Style transfer][4]
 
-## ☞ Time Series Analysis
+## ☞ Projects
+- [Style transfer][4]
+- [Q/A chatbot][2]
 - [Shipping Profit Sales Forecasting][6]
-## ☞ Computer Vision
 - [Mediapipe Implementation][5]
-## ☞ Machine learning
 - [Bank Note Analysis][7]
 
 

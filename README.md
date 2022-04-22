@@ -5,6 +5,7 @@
 ## What you can learn from my Github :
 ## ☞ Python Tricks
 - [REGEX with python][3]
+- [binary-hexa-octal-to-decimal-and-vice-versa][11]
 ## ☞ Natural Language Processing Tricks
 - [Introduction to NLTK][8]
 - [Part-of-Speech Tagging][9]
@@ -37,7 +38,8 @@ You can find me on       [LinkedIn][1]
 [7]: https://github.com/DeepNeurons/BANK-NOTE-ANALYSIS
 [8]: https://github.com/DeepNeurons/NLTK
 [9]:https://github.com/DeepNeurons/POS-tagging
-[10]: https://github.com/DeepNeurons/Printed-bill-analysis
+[10]:https://github.com/DeepNeurons/Printed-bill-analysis
+[11]: https://github.com/DeepNeurons/binary-hexa-octal-to-decimal-and-vice-versa/tree/master
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)

@@ -1,7 +1,9 @@
-## Hi there 👋 I am Bouchelliga Hedi
+## <h1 align="center"> Hi there 👋 I am Bouchelliga Hedi </h1>
 
-### I am a data Scientist/Engineer with 2+ years of experience
-
+#### 👉🏼 I am a data Scientist/Engineer
+#### 👉🏼 Python developer
+#### 👉🏼 Google Cloud Developer 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> You can find me on       👉🏼 [LinkedIn][1]
 ## What you can learn from my Github :
 ## ☞ Python Tricks
 - [REGEX with python][3]
@@ -21,7 +23,7 @@
 
 <!-- Actual text -->
 
-You can find me on       [LinkedIn][1]
+
 
 <!-- Icons -->
 

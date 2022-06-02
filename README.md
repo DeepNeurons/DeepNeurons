@@ -3,7 +3,11 @@
 #### 👉🏼 I am a data Scientist/Engineer
 #### 👉🏼 Python developer
 #### 👉🏼 Google Cloud Developer 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> You can find me on       👉🏼 [LinkedIn][1]
+👉🏼 You can find me on [LinkedIn][1]
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  
+
+
+
 ## What you can learn from my Github :
 ## ☞ Python Tricks
 - [REGEX with python][3]

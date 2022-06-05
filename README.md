@@ -3,20 +3,13 @@
 #### 👉🏼 I am a data Scientist/Engineer
 #### 👉🏼 Python developer
 #### 👉🏼 Google Cloud Developer 
-👉🏼 You can find me on [LinkedIn][1]
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  
+#### 👉🏼 You can find me on [LinkedIn][1]
 
 
-
-## What you can learn from my Github :
-## ☞ Python Tricks
 - [REGEX with python][3]
 - [binary-hexa-octal-to-decimal-and-vice-versa][11]
-## ☞ Natural Language Processing Tricks
 - [Introduction to NLTK][8]
 - [Part-of-Speech Tagging][9]
-
-## ☞ Projects
 - [Style transfer][4]
 - [Q/A chatbot][2]
 - [Shipping Profit Sales Forecasting][6]
